@@ -1,0 +1,7 @@
+{
+  "name": "하는반 독서 타이머",
+  "description": "A smart timer for classrooms that detects noise levels to help maintain a quiet reading environment. It features a circular timer, real-time noise graph, and automatic pausing when it gets too loud.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
